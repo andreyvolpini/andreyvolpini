@@ -6,7 +6,7 @@
 
 ---
 ## 🚀 Sobre mim
-Sou apaixonado por tecnologia e soluções inteligentes. Aspirante a **análise de dados**, desenvolvendo dashboards interativos e automatizando processos com **Python, SQL, Power BI e Excel**. Também sou estudante da **42 School**, onde desenvolvo habilidades avançadas em **linguagem C, estrutura de sistemas e segurança**.
+Sou apaixonado por tecnologia e soluções inteligentes. Aspirante a **analista de dados**, desenvolvendo dashboards interativos e automatizando processos com **Python, SQL, Power BI e Excel**. Também sou estudante da **42 School**, onde desenvolvo habilidades avançadas em **linguagem C, estrutura de sistemas e segurança**.
 
 
 ### 💡 Meus focos principais:
@@ -44,7 +44,7 @@ Sou apaixonado por tecnologia e soluções inteligentes. Aspirante a **análise 
 ## 🧠 Soft Skills
 
 - Pensamento Crítico
-- Resolução de Problemas
+- Solução de Problemas
 - Atenção aos Detalhes
 - Comunicação Eficaz
 - Curiosidade
@@ -53,7 +53,7 @@ Sou apaixonado por tecnologia e soluções inteligentes. Aspirante a **análise 
 ---
 ## 📫 Como me encontrar
 
-- 💌 Email: eng.andrey@hotmail.com
+- 💌 eng.andrey@hotmail.com
 - 🌐 [LinkedIn](https://www.linkedin.com/in/andrey-volpini/)
 - 📊 [Portfólio de Análise de Dados](https://is.gd/J8Qk7U)
 
