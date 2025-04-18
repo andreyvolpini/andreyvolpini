@@ -6,7 +6,7 @@
 
 ---
 ## 🚀 Sobre mim
-Sou apaixonado por tecnologia e soluções inteligentes. Atuo como **freelancer em análise de dados**, desenvolvendo dashboards interativos e automatizando processos com **Python, SQL, Power BI e Excel**. Também sou estudante da **42 School**, onde desenvolvo habilidades avançadas em **linguagem C, estrutura de sistemas e segurança**.
+Sou apaixonado por tecnologia e soluções inteligentes. Aspirante a **análise de dados**, desenvolvendo dashboards interativos e automatizando processos com **Python, SQL, Power BI e Excel**. Também sou estudante da **42 School**, onde desenvolvo habilidades avançadas em **linguagem C, estrutura de sistemas e segurança**.
 
 
 ### 💡 Meus focos principais:
