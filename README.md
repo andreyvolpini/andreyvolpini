@@ -18,7 +18,7 @@ I also have previous experience as a freelancer on automation and data analysis 
 - 🔧 In Progress: Milestone 2  
   Completed: *so_long*  
   Currently working on: **push_swap**
-- ⏭️ Up Next: **push_swap** and **pipex**
+- ⏭️ Up Next: **pipex**
 
 ---
 
