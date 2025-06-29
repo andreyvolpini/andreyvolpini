@@ -15,10 +15,10 @@ Tenho também experiência anterior como freelancer em projetos de automação e
 
 ## 🎯 Atualmente
 - ✅ Concluído: Milestone 1 (Libft, ft_printf, get_next_line, Born2beroot)
-- 🔧 Em progresso: Milestone 2
-	Concluído (so_long)
-	Trabalhando no projeto <strong>push_swap</strong>
-- ⏭ Próximos: <strong>push_swap</strong> e <strong>pipex</strong>
+- 🔧 Em progresso: Milestone 2  
+  Concluído (so_long)  
+  Trabalhando no projeto **push_swap**
+- ⏭ Próximos: **push_swap** e **pipex**
 
 ---
 
