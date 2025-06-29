@@ -1,45 +1,45 @@
-<h1 align="center">Olá, eu sou o Andrey Volpini 👋</h1>
+<h1 align="center">Hi, I'm Andrey Volpini 👋</h1>
 
 <p align="center">
-  Estudante de Engenharia de Software na <strong>42 Porto</strong> | Focado em C, Linux e Baixo Nível 🧠🐧
+  Software Engineering student at <strong>42 Porto</strong> | Focused on C, Linux, and Low-Level Development 🧠🐧
 </p>
 
 ---
 
-## 🚀 Sobre mim
-Sou apaixonado por tecnologia e por resolver problemas de forma inteligente. Atualmente sou estudante da <strong>42 School</strong>, desenvolvendo habilidades avançadas em <strong>linguagem C, sistemas Unix, algoritmos e segurança</strong> — o que reflete meu objetivo claro de me tornar um engenheiro de software com base sólida em fundamentos.
+## 🚀 About Me
+I'm passionate about technology and solving problems in smart ways. I'm currently a student at <strong>42 School</strong>, developing advanced skills in <strong>C language, Unix systems, algorithms, and security</strong> — all aligned with my clear goal of becoming a software engineer with a strong foundational base.
 
-Tenho também experiência anterior como freelancer em projetos de automação e análise de dados com Python e SQL, mas meu foco atual está totalmente voltado ao desenvolvimento e à engenharia de software.
-
----
-
-## 🎯 Atualmente
-- ✅ Concluído: Milestone 1 (Libft, ft_printf, get_next_line, Born2beroot)
-- 🔧 Em progresso: Milestone 2  
-  Concluído (so_long)  
-  Trabalhando no projeto **push_swap**
-- ⏭ Próximos: **push_swap** e **pipex**
+I also have previous experience as a freelancer on automation and data analysis projects using Python and SQL, but my current focus is fully dedicated to software development and engineering.
 
 ---
 
-## 💡 Meus focos principais
-- Desenvolvimento em C
-- Sistemas Unix, Shell, Processos, Ponteiros, Estruturas de Dados
-- Automação com Python/API (experiência anterior)
-- Ferramentas de versionamento e DevOps (Git, Shell, Linux)
+## 🎯 Currently
+- ✅ Completed: Milestone 1 (*Libft*, *ft_printf*, *get_next_line*, *Born2beroot*)
+- 🔧 In Progress: Milestone 2  
+  Completed: *so_long*  
+  Currently working on: **push_swap**
+- ⏭️ Up Next: **push_swap** and **pipex**
 
 ---
 
-## 📌 Repositórios em destaque
+## 💡 My Main Focus Areas
+- Development in C
+- Unix Systems, Shell, Processes, Pointers, Data Structures
+- Automation with Python/API (previous experience)
+- Version control & DevOps tools (Git, Shell, Linux)
+
+---
+
+## 📌 Featured Repositories
 🌟 [common_core](https://github.com/andreyvolpini/common_core)  
-> Repositório com os principais projetos da 42: `libft`, `ft_printf`, `get_next_line`, `Born2beroot` e mais
+> Repository with the main 42 projects: `libft`, `ft_printf`, `get_next_line`, `Born2beroot`, and more
 
-📊 [Painéis de Análise de Dados](https://is.gd/J8Qk7U) *(Portfólio anterior com Python, SQL e Power BI)*  
-> Dashboards para logística, compras, vendas, clínicas e comportamento de usuários
+📊 [Data Analysis Dashboards](https://is.gd/J8Qk7U) *(Previous portfolio using Python, SQL, and Power BI)*  
+> Dashboards for logistics, procurement, sales, clinics, and user behavior
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 ![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -52,19 +52,19 @@ Tenho também experiência anterior como freelancer em projetos de automação e
 ---
 
 ## 🧠 Soft Skills
-- Pensamento Crítico
-- Solução de Problemas
-- Atenção aos Detalhes
-- Comunicação Clara
-- Curiosidade Técnica
+- Critical Thinking
+- Problem Solving
+- Attention to Detail
+- Clear Communication
+- Technical Curiosity
 
 ---
 
-## 📫 Como me encontrar
+## 📫 How to Reach Me
 - 💌 eng.andrey@hotmail.com
 - 🌐 [LinkedIn](https://www.linkedin.com/in/andrey-volpini/)
-- 📊 [Portfólio de Análise de Dados](https://is.gd/J8Qk7U)
+- 📊 [Data Analysis Portfolio](https://is.gd/J8Qk7U)
 
 ---
 
-<p align="center">✨ Obrigado por visitar meu perfil! Aberto a novos desafios e colaborações.</p>
+<p align="center">✨ Thanks for visiting my profile! Open to new challenges and collaborations.</p>
