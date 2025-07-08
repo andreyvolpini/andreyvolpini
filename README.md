@@ -63,4 +63,4 @@ Now fully focused on systems programming, computer science fundamentals, and bac
 
 ---
 
-<p align="center">✨ Thanks for visiting my profile! Open to new challenges, mentorships, and collaborative learning.</p>
+<p align="center">✨ Thanks for visiting my profile! Open to new challenges and collaborative learning.</p>
