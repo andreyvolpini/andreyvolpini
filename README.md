@@ -7,64 +7,60 @@
 ---
 
 ## 🚀 About Me
-I'm passionate about technology and solving problems in smart ways. I'm currently a student at <strong>42 School</strong>, developing advanced skills in <strong>C language, Unix systems, algorithms, and security</strong> — all aligned with my clear goal of becoming a software engineer with a strong foundational base.
+I'm passionate about technology and solving problems through smart, scalable code.  
+Currently studying at <strong>42 School Porto</strong>, developing advanced skills in <strong>C, Unix systems, algorithms, and low-level architecture</strong> — with the goal of becoming a resilient and well-rounded software engineer.
 
-I also have previous experience as a freelancer on automation and data analysis projects using Python and SQL, but my current focus is fully dedicated to software development and engineering.
-
----
-
-## 🎯 Currently
-- ✅ Completed: Milestone 1 (*Libft*, *ft_printf*, *get_next_line*, *Born2beroot*)
-- 🔧 In Progress: Milestone 2  
-  Completed: *so_long*  
-  Currently working on: **push_swap**
-- ⏭️ Up Next: **pipex**
+Previously worked on automation and data analysis projects using Python, SQL, and Power BI.  
+Now fully focused on systems programming, computer science fundamentals, and backend development.
 
 ---
 
-## 💡 My Main Focus Areas
-- Development in C
-- Unix Systems, Shell, Processes, Pointers, Data Structures
-- Automation with Python/API (previous experience)
-- Version control & DevOps tools (Git, Shell, Linux)
+## 🎯 Progress at 42 Porto
+- ✅ Milestone 1: `libft`, `ft_printf`, `get_next_line`, `born2beroot`
+- ✅ Milestone 2: `so_long`, `push_swap`
+- 🔄 Currently working on: `pipex`
+- ⏭️ Up Next: `minishell`, `philosopher`
 
 ---
 
 ## 📌 Featured Repositories
-🌟 [common_core](https://github.com/andreyvolpini/common_core)  
-> Repository with the main 42 projects: `libft`, `ft_printf`, `get_next_line`, `Born2beroot`, and more
+🌟 [42 School Projects](https://github.com/andreyvolpini/42-school-projects)  
+> All main 42 projects organized by folder, with documentation in progress
 
-📊 [Data Analysis Dashboards](https://is.gd/J8Qk7U) *(Previous portfolio using Python, SQL, and Power BI)*  
-> Dashboards for logistics, procurement, sales, clinics, and user behavior
+📘 [C Project Tutorials](https://github.com/andreyvolpini/42-school-tutorials) *(upcoming)*  
+> Step-by-step breakdowns and insights into each project's architecture
+
+📊 [Data Analysis Portfolio](https://is.gd/J8Qk7U) *(Python, SQL, Power BI)*  
+> Dashboards and business insights from freelancing work
 
 ---
 
 ## 🛠️ Technologies & Tools
-![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![Shell](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 ---
 
 ## 🧠 Soft Skills
-- Critical Thinking
-- Problem Solving
-- Attention to Detail
-- Clear Communication
-- Technical Curiosity
+- Critical thinking  
+- Autonomous learning  
+- Clean communication  
+- Technical curiosity  
+- Team collaboration
 
 ---
 
-## 📫 How to Reach Me
-- 💌 eng.andrey@hotmail.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/andrey-volpini/)
-- 📊 [Data Analysis Portfolio](https://is.gd/J8Qk7U)
+## 📫 Contact
+📧 eng.andrey@hotmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/andrey-volpini/) • [GitHub](https://github.com/andreyvolpini) • [Portfolio](https://is.gd/J8Qk7U)
 
 ---
 
-<p align="center">✨ Thanks for visiting my profile! Open to new challenges and collaborations.</p>
+<p align="center">✨ Thanks for visiting my profile! Open to new challenges, mentorships, and collaborative learning.</p>
