@@ -18,8 +18,8 @@ Now fully focused on systems programming, computer science fundamentals, and bac
 ## 🎯 Progress at 42 Porto
 - ✅ Milestone 1: `ft_printf`, `get_next_line`, `born2beroot`
 - ✅ Milestone 2: `so_long`, `push_swap`, `pipex`
-- 🔄 Currently working on: 
-- ⏭️ Up Next: `minishell`, `philosopher`
+- 🔄 Currently working on: `minishell`
+- ⏭️ Up Next: `philosopher`
 
 ---
 
