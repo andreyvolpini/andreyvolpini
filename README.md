@@ -19,8 +19,10 @@ Now fully focused on systems programming, computer science fundamentals, and bac
 - ✅ Milestone 1: `ft_printf`, `get_next_line`, `born2beroot`
 - ✅ Milestone 2: `so_long`, `push_swap`, `pipex`
 - ✅ Milestone 3: `minishell`, `philosopher`
-- 🔄 Currently working on: `netpractice`
-- ⏭️ Up Next: `cpp00 to cpp04`
+- 🔄 Milestone 4:
+        ✅ `netpractice`
+        🔄 Currently working on: `cpp00 to cpp04`
+- ⏭️ Up Next: `miniRT`
 
 ---
 
