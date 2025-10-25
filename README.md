@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Andrey Volpini 👋</h1>
 
 <p align="center">
-  Software Engineering student at <strong>42 Porto</strong> 🇵🇹 <br>
+  <strong>Software Engineering<strong>
   Focused on <strong>Systems Programming, Linux, and Cybersecurity</strong> 🧠🐧
 </p>
 
