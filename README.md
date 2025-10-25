@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Software Engineering</strong><br>
-  Focused on <strong>Systems Programming, Linux, and Cybersecurity</strong> 🧠🐧
+  Focused on <strong>Systems Programming, Linux, and Cybersecurity</strong>
 </p>
 
 ---
@@ -21,11 +21,11 @@ Currently expanding into **cybersecurity, system hardening, and infrastructure a
 
 🌟 [**minishell**](https://github.com/andreyvolpini/minishell)  
 > Custom Unix shell in C — parsing, signals, process management  
-> 🧠 *Stack:* C, system calls, signal handling, memory management
+> ⚙️ : **C, system calls, signal handling, memory management**
 
 🌟 [**philosophers**](https://github.com/andreyvolpini/philosophers)  
 > Multithreaded dining philosophers — concurrency, mutexes, timing control  
-> ⚙️ *Stack:* pthreads, synchronization, time management
+> ⚙️ : **pthreads, synchronization, time management**
 
 📘 [42 School Projects](https://github.com/andreyvolpini/42-school-projects)  
 > All main projects organized by milestone, with clean and documented structure
@@ -101,25 +101,8 @@ Currently expanding into **cybersecurity, system hardening, and infrastructure a
 ### 📫 Contact
 
 <p align="left">
-  <a href="mailto:eng.andrey@hotmail.com">
-    <img 
-      alt="Email" 
-      title="Send me an email"
-      src="https://img.shields.io/badge/Email-eng.andrey%40hotmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white"
-    />
-  </a>
-  <a href="https://github.com/andreyvolpini">
-    <img 
-      alt="GitHub" 
-      title="Visit my GitHub profile"
-      src="https://img.shields.io/badge/GitHub-andreyvolpini-181717?style=for-the-badge&logo=github&logoColor=white"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/andrey-volpini/">
-    <img 
-      alt="LinkedIn" 
-      title="Connect on LinkedIn"
-      src="https://img.shields.io/badge/LinkedIn-Andrey%20Volpini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
+  <a href="mailto:eng.andrey@hotmail.com"><img src="https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/andreyvolpini"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/andrey-volpini/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
+
