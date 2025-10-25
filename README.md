@@ -22,7 +22,7 @@ Currently expanding into **cybersecurity, system hardening, and infrastructure a
 - ✅ **Milestone 2:** `so_long`, `push_swap`, `pipex`
 - ✅ **Milestone 3:** `minishell`, `philosophers`
 - 🔄 **Milestone 4:** `netpractice`, `miniRT`, `C++ modules mid-level`
-- ⏭️ **Milestone 5:** `C++ modules advance-level`, `webserver`, `Inception(Docker)`
+- ⏭️ **Milestone 5:** `C++ modules advanced-level`, `webserver`, `Inception(Docker)`
 - ⏭️ **Milestone 6:** `ft_transcendence`
 - ⏭️ **Cybersecurity specialization**
 
