@@ -17,32 +17,6 @@ Currently expanding into **cybersecurity, system hardening, and infrastructure a
 
 ---
 
-<p align="left">
-  <a href="https://github.com/andreyvolpini?tab=followers">
-    <img 
-      alt="GitHub Followers" 
-      title="Follow me on GitHub"
-      src="https://custom-icon-badges.demolab.com/github/followers/andreyvolpini?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-    />
-  </a>
-  <a href="https://github.com/andreyvolpini?tab=repositories&sort=stargazers">
-    <img 
-      alt="GitHub Stars" 
-      title="Total GitHub Stars"
-      src="https://custom-icon-badges.demolab.com/github/stars/andreyvolpini?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/andrey-volpini/">
-    <img 
-      alt="LinkedIn" 
-      title="Connect on LinkedIn"
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
-</p>
-
----
-
 ### 📂 Featured Projects
 
 🌟 [**minishell**](https://github.com/andreyvolpini/minishell)  
@@ -126,5 +100,26 @@ Currently expanding into **cybersecurity, system hardening, and infrastructure a
 
 ### 📫 Contact
 
-📧 **eng.andrey@hotmail.com**  
-🌐 [LinkedIn](https://www.linkedin.com/in/andrey-volpini/) • [GitHub](https://github.com/andreyvolpini)
+<p align="left">
+  <a href="mailto:eng.andrey@hotmail.com">
+    <img 
+      alt="Email" 
+      title="Send me an email"
+      src="https://img.shields.io/badge/Email-eng.andrey%40hotmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
+  <a href="https://github.com/andreyvolpini">
+    <img 
+      alt="GitHub" 
+      title="Visit my GitHub profile"
+      src="https://img.shields.io/badge/GitHub-andreyvolpini-181717?style=for-the-badge&logo=github&logoColor=white"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/andrey-volpini/">
+    <img 
+      alt="LinkedIn" 
+      title="Connect on LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-Andrey%20Volpini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+</p>
