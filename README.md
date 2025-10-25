@@ -1,4 +1,4 @@
-<h1 align="center">👨🏻‍💻 Andrey Volpini</h1>
+<h1 align="center">I'm Andrey Volpini</h1>
 
 <p align="center">
   <strong>Software Engineering</strong><br>
@@ -7,13 +7,24 @@
 
 ---
 
-### 🧩 About Me
+### 👨🏻‍💻 About Me
 
 I’m a **Software Engineer** student at <strong>42 Porto</strong>, passionate about understanding how systems work from the inside out.  
 My focus is on **low-level programming (C/C++)**, **Unix/Linux internals**, and **secure software development** — building reliable systems that are efficient and resilient.
 
 With a background in **mechanical engineering**, I bring analytical precision and a system-level mindset to performance optimization and architecture design.  
 Currently expanding into **cybersecurity, system hardening, and infrastructure automation** (Docker, Linux, network isolation).
+
+---
+
+## 🧩 42 Porto Journey (Jan 2025 – 2026 expected)
+- ✅ **Milestone 1:** `libft`, `get_next_line`, `ft_printf`, `born2beroot`
+- ✅ **Milestone 2:** `so_long`, `push_swap`, `pipex`
+- ✅ **Milestone 3:** `minishell`, `philosophers`
+- 🔄 **Milestone 4:** `netpractice`, `miniRT`, `C++ modules mid-level`
+- ⏭️ **Milestone 5:** `C++ modules advance-level`, `webserver`, `Inception(Docker)`
+- ⏭️ **Milestone 6:** `ft_transcendence`
+- ⏭️ **Cybersecurity specialization**
 
 ---
 
