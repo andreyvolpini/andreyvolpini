@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Software Engineering</strong><br>
-  Focused on <strong>Systems Programming, Linux, and Cybersecurity</strong> 🧠🐧
+  Focused on <strong>Systems Programming, Linux, and Cybersecurity</strong>
 </p>
 
 ---
