@@ -1,41 +1,57 @@
-<h1 align="center">Hi, I'm Andrey Volpini 👋</h1>
+<h1 align="center">👨🏻‍💻 Andrey Volpini</h1>
 
 <p align="center">
   <strong>Software Engineering</strong><br>
-  Focused on <strong>Systems Programming, Linux, and Cybersecurity</strong>
+  Focused on <strong>Systems Programming, Linux, and Cybersecurity</strong> 🧠🐧
 </p>
 
 ---
 
-## About Me
-I'm a Software Engineering student at <strong>42 Porto</strong>, passionate about understanding how systems work from the inside out.  
-My main focus is on **low-level programming (C, C++)**, **Unix/Linux internals**, and **secure software development** — building reliable and secure software designed for performance and clarity.
+### 🧩 About Me
 
-With a background in **mechanical engineering**, I bring analytical precision and a systems-thinking approach to performance optimization and architecture design.
+I’m a **Software Engineer** student at <strong>42 Porto</strong>, passionate about understanding how systems work from the inside out.  
+My focus is on **low-level programming (C/C++)**, **Unix/Linux internals**, and **secure software development** — building reliable systems that are efficient and resilient.
 
-Currently expanding **cybersecurity and system hardening**, combining technical depth with curiosity — learning how things break, and how to make them unbreakable.
-
----
-
-## 🧩 42 Porto Journey (Jan 2025 – 2026 expected)
-- ✅ **Milestone 1:** `libft`, `get_next_line`, `ft_printf`, `born2beroot`
-- ✅ **Milestone 2:** `so_long`, `push_swap`, `pipex`
-- ✅ **Milestone 3:** `minishell`, `philosophers`
-- 🔄 **Milestone 4:** `netpractice`, `miniRT`, `C++ modules mid-level`
-- ⏭️ **Milestone 5:** `C++ modules advance-level`, `webserver`, `Inception(Docker)`
-- ⏭️ **Milestone 6:** `ft_transcendence`
-- ⏭️ **Cybersecurity specialization**
+With a background in **mechanical engineering**, I bring analytical precision and a system-level mindset to performance optimization and architecture design.  
+Currently expanding into **cybersecurity, system hardening, and infrastructure automation** (Docker, Linux, network isolation).
 
 ---
 
-## 📂 Featured Repositories
-🌟 [minishell](https://github.com/andreyvolpini/minishell)  
-> Custom Unix shell built in C — parsing, process control, signals, and I/O redirection
-> > *Tech:* C, Unix system calls, signal handling, parsing
+<p align="left">
+  <a href="https://github.com/andreyvolpini?tab=followers">
+    <img 
+      alt="GitHub Followers" 
+      title="Follow me on GitHub"
+      src="https://custom-icon-badges.demolab.com/github/followers/andreyvolpini?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+    />
+  </a>
+  <a href="https://github.com/andreyvolpini?tab=repositories&sort=stargazers">
+    <img 
+      alt="GitHub Stars" 
+      title="Total GitHub Stars"
+      src="https://custom-icon-badges.demolab.com/github/stars/andreyvolpini?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/andrey-volpini/">
+    <img 
+      alt="LinkedIn" 
+      title="Connect on LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+</p>
 
-🌟 [philosophers](https://github.com/andreyvolpini/philosophers)  
-> Multithreaded simulation of the Dining Philosophers problem (C, pthreads, mutexes)
-> > *Tech:* C, pthreads, synchronization, mutexes
+---
+
+### 📂 Featured Projects
+
+🌟 [**minishell**](https://github.com/andreyvolpini/minishell)  
+> Custom Unix shell in C — parsing, signals, process management  
+> 🧠 *Stack:* C, system calls, signal handling, memory management
+
+🌟 [**philosophers**](https://github.com/andreyvolpini/philosophers)  
+> Multithreaded dining philosophers — concurrency, mutexes, timing control  
+> ⚙️ *Stack:* pthreads, synchronization, time management
 
 📘 [42 School Projects](https://github.com/andreyvolpini/42-school-projects)  
 > All main projects organized by milestone, with clean and documented structure
@@ -82,24 +98,33 @@ Currently expanding **cybersecurity and system hardening**, combining technical 
 
 ---
 
-## 🧭 Future Goals
-- Deepen expertise in **systems security and infrastructure hardening**
-- Contribute to **open-source projects in C and Linux tooling**
+### 📊 GitHub Stats
+
+<p>
+  <img 
+    align="left" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=andreyvolpini&show_icons=true&theme=tokyonight&include_all_commits=true"
+  />
+  <img 
+    align="left" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyvolpini&theme=tokyonight&layout=compact&custom_title=Languages"
+  />
+</p>
+
+<br clear="left"/>
+
+---
+
+### 🧭 Future Goals
+- Deepen expertise in **systems security and infrastructure hardening**  
+- Contribute to **open-source Linux tools** and C/C++ projects  
 - Transition into **DevSecOps or cybersecurity-focused system engineering**
 
 ---
 
-## Soft Skills
-- Analytical & critical thinking  
-- Autonomous learning and discipline  
-- Problem-solving under pressure  
-- Collaboration & technical communication  
-- Security-oriented mindset  
+### 📫 Contact
 
----
-
-## 📫 Contact
-📧 eng.andrey@hotmail.com  
+📧 **eng.andrey@hotmail.com**  
 🌐 [LinkedIn](https://www.linkedin.com/in/andrey-volpini/) • [GitHub](https://github.com/andreyvolpini)
-
----
