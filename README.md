@@ -83,25 +83,6 @@ Currently expanding into **cybersecurity, system hardening, and infrastructure a
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img 
-    align="left" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=andreyvolpini&show_icons=true&theme=tokyonight&include_all_commits=true"
-  />
-  <img 
-    align="left" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyvolpini&theme=tokyonight&layout=compact&custom_title=Languages"
-  />
-</p>
-
-<br clear="left"/>
-
----
-
 ### 🧭 Future Goals
 - Deepen expertise in **systems security and infrastructure hardening**  
 - Contribute to **open-source Linux tools** and C/C++ projects  
