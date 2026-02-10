@@ -4,7 +4,7 @@
     <strong>Software Engineering</strong> Focused on <strong>Cybersecurity</strong>
   </p>
   <a href="https://tryhackme.com/p/avolpini">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/avolpini.png" alt="TryHackMe Badge">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/avolpini.png?update=1" alt="TryHackMe Badge">
   </a>
 </div>
 
