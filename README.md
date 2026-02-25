@@ -1,12 +1,13 @@
 <div align="center">
+
   <h1>Andrey Volpini</h1>
   <p>
-    <strong>Software Engineering</strong> Focused on <strong>Cybersecurity</strong>
+    <strong>Software Engineering</strong> | Focused on <strong>Cybersecurity</strong>
   </p>
-  <a href="https://tryhackme.com/p/avolpini">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/avolpini.png" alt="Your Image Badge" />
+
+  <a href="https://tryhackme.com/p/avolpini" target="_blank">
+    <img src="https://tryhackme.com/badge/user/5685788" alt="TryHackMe Badge" width="150"/>
   </a>
-</div>
 
 
 ## About Me
