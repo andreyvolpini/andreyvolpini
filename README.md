@@ -6,7 +6,8 @@
   </p>
 
   <a href="https://tryhackme.com/p/avolpini" target="_blank">
-    <img src="https://tryhackme.com/badge/user/5685788" alt="TryHackMe Badge" width="150"/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/avolpini.png" alt="Your Image Badge" />
+
   </a>
 
 
