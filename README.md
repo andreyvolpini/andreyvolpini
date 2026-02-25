@@ -25,10 +25,12 @@ With a background in **Mechanical Engineering**, I apply analytical reasoning an
 
 My ongoing focus includes **Application Security**, system **hardening**, and **security automation**, supported by continuous hands-on labs and personal projects.
 
+
 ---
 <br>
 
 <!-- ## 42 Porto School
+=======
 - ✅ **Milestone 0:** `libft`
 - ✅ **Milestone 1:** `get_next_line`, `ft_printf`, `born2beroot`
 - ✅ **Milestone 2:** `so_long`, `push_swap`, `pipex`
@@ -50,9 +52,9 @@ My ongoing focus includes **Application Security**, system **hardening**, and **
  - Secure software design mindset
  - System hardening and service exposure reduction
 
+
 ---
 <br>
-
 
 ## Technologies & Tools
 
@@ -69,6 +71,16 @@ My ongoing focus includes **Application Security**, system **hardening**, and **
 ---
 <br>
 
+## Soft Skills
+- Analytical & critical thinking  
+- Autonomous learning and discipline  
+- Problem-solving under pressure  
+- Collaboration & technical communication  
+- Security-oriented mindset  
+
+---
+<br>
+
 ## Continuous Learning
 
  - TryHackMe labs and pathways
@@ -79,15 +91,6 @@ My ongoing focus includes **Application Security**, system **hardening**, and **
 ---
 <br>
 
-## Soft Skills
-- Analytical & critical thinking  
-- Autonomous learning and discipline  
-- Problem-solving under pressure  
-- Collaboration & technical communication  
-- Security-oriented mindset  
-
----
-<br>
 
 ## Contact
 📧 eng.andrey@hotmail.com  
