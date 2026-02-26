@@ -10,6 +10,7 @@
 
   </a>
 
+</div>
 
 ## About Me
 I'm a Software Engineering student at **42 Porto School**, developing a strong technical foundation in low-level programming, Unix/Linux internals, and system architecture.  
@@ -69,6 +70,8 @@ My ongoing focus includes **Application Security**, system **hardening**, and **
 ### Debugging & Profiling: ![Valgrind](https://img.shields.io/badge/Valgrind-5C2D91?style=flat-square&logo=valgrind) ![GDB](https://img.shields.io/badge/GDB-A42E2B?style=flat-square&logo=gnu) ![Process Management](https://img.shields.io/badge/Process%20Management-555555?style=flat-square&logo=linux)
 
 ### Workflow & Build: ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github) ![Makefile](https://img.shields.io/badge/Makefile-5C2D91?style=flat-square&logo=gnu)
+
+### Others: ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ---
 <br>
