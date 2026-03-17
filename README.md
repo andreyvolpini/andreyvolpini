@@ -1,33 +1,42 @@
 <div align="center">
 
-  <h1>Andrey Volpini</h1>
-  <p>
-    <strong>Software Engineering</strong> | Focused on <strong>Cybersecurity</strong>
-  </p>
+<h1>Andrey Volpini</h1>
+<p><strong>Software Engineer | Cybersecurity | C · Python · Linux</strong></p>
 
-  <a href="https://tryhackme.com/p/avolpini" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/avolpini.png" alt="Your Image Badge" />
-
-  </a>
+<!-- <a href="https://www.linkedin.com/in/andrey-volpini/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://tryhackme.com/p/avolpini" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white"/></a>
+<a href="https://tryhackme.com/p/avolpini" target="_blank"><img src="https://tryhackme.com/badge/user/5685788" alt="TryHackMe Badge" width="120"/></a> -->
 
 </div>
 
 ## About Me
-I'm a Software Engineering student at **42 Porto School**, developing a strong technical foundation in low-level programming, Unix/Linux internals, and system architecture.  
+**Software Engineering** with a strong foundation in low-level systems programming, Unix/Linux internals. Hands-on experience in C, Python, and Bash through projects covering process control, memory management, concurrency and secure system design. Actively developing offensive security skills - penetration testing, web vulnerability discovery and network analysis. 
 
-<br>
+<!-- <br>
 
 My current trajectory is oriented toward **Cybersecurity**, where I combine:
  - Systems knowledge from the inside out
  - Offensive curiosity (understanding how things break)
  - Defensive thinking (designing resilient software and environments)
 
-<br>
+<!-- <br> -->
 
 With a background in **Mechanical Engineering**, I apply analytical reasoning and systems thinking to performance, reliability, and security problems.
 
 My ongoing focus includes **Application Security**, system **hardening**, and **security automation**, supported by continuous hands-on labs and personal projects.
 
+---
+
+<br>
+
+## Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| [Port Scanner](https://github.com/andreyvolpini) | Python · Sockets | TCP port scanner with service enumeration and attack surface mapping |
+| [Minishell](https://github.com/andreyvolpini/minishell) | C · Unix | Unix shell with pipelines, signals, and process control via fork/execve/dup2 |
+| [Inception](https://github.com/andreyvolpini/inception) | Docker · NGINX · MariaDB | Multi-container infrastructure with TLS, isolated networking, and secure config |
+| [Philosophers](https://github.com/andreyvolpini/philosophers) | C · Threads | Dining 
 
 ---
 <br>
@@ -61,17 +70,36 @@ My ongoing focus includes **Application Security**, system **hardening**, and **
 
 ## Technologies & Tools
 
-### Security Tools: ![nmap](https://img.shields.io/badge/Recon-Nmap-blue?style=flat-square) ![ffuf](https://img.shields.io/badge/Recon-ffuf-2E8B57?style=flat-square) ![burp](https://img.shields.io/badge/Web-Burp_Suite-FF6633?style=flat-square&logo=burpsuite) ![ZAP](https://img.shields.io/badge/Web-ZAP-00549E?style=flat-square) ![Netcat](https://img.shields.io/badge/System-Netcat-6A5ACD?style=flat-square) ![SSH](https://img.shields.io/badge/System-SSH-4EAA25?style=flat-square) ![tcpdump](https://img.shields.io/badge/System-tcpdump-8B4513?style=flat-square) ![Firewall](https://img.shields.io/badge/Firewall-UFW-orange?style=flat-square&logo=linux)
 
-### Programming & Scripting: ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+**Security:** 
+![Nmap](https://img.shields.io/badge/Recon-Nmap-blue?style=flat-square)
+![ffuf](https://img.shields.io/badge/Recon-ffuf-2E8B57?style=flat-square)
+![Gobuster](https://img.shields.io/badge/Recon-Gobuster-4B0082?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Web-Burp_Suite-FF6633?style=flat-square&logo=burpsuite)
+![ZAP](https://img.shields.io/badge/Web-ZAP-00549E?style=flat-square)
+![Hydra](https://img.shields.io/badge/Auth-Hydra-8B0000?style=flat-square)
+![John](https://img.shields.io/badge/Auth-John_the_Ripper-555?style=flat-square)
+![Netcat](https://img.shields.io/badge/System-Netcat-6A5ACD?style=flat-square)
+![tcpdump](https://img.shields.io/badge/System-tcpdump-8B4513?style=flat-square)
+![UFW](https://img.shields.io/badge/Firewall-UFW-orange?style=flat-square&logo=linux)
 
-### Operating Systems & Platforms: ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows) ![Virtualization](https://img.shields.io/badge/Virtualization-008080?style=flat-square&logo=proxmox)
+**Programming:**
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
 
-### Debugging & Profiling: ![Valgrind](https://img.shields.io/badge/Valgrind-5C2D91?style=flat-square&logo=valgrind) ![GDB](https://img.shields.io/badge/GDB-A42E2B?style=flat-square&logo=gnu) ![Process Management](https://img.shields.io/badge/Process%20Management-555555?style=flat-square&logo=linux)
+**Systems & Platforms:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Virtualization](https://img.shields.io/badge/Virtualization-008080?style=flat-square&logo=proxmox)
 
-### Workflow & Build: ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github) ![Makefile](https://img.shields.io/badge/Makefile-5C2D91?style=flat-square&logo=gnu)
-
-### Others: ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+**Debugging & Build:**
+![GDB](https://img.shields.io/badge/GDB-A42E2B?style=flat-square&logo=gnu)
+![Valgrind](https://img.shields.io/badge/Valgrind-5C2D91?style=flat-square)
+![Makefile](https://img.shields.io/badge/Makefile-5C2D91?style=flat-square&logo=gnu)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 <br>
